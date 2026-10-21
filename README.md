@@ -18,3 +18,4 @@ A Prolog-based project focused on logic programming and constraint solving.
 Load the file into a Prolog interpreter and run the provided queries.
 
 #### Grade: 19.8 / 20.0
+Nota: inclui ambos checkpoints e teste prático
